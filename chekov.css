@@ -1,0 +1,25 @@
+.speech {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: #000;
+}
+
+.direction {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: #000;
+    background-color: lightgrey;
+}
+
+.direction:hover {
+    background-color: black;
+    color: white;
+}
+
+.telegin {
+    color: blue;
+}
+
+.marina {
+    color: pink;
+}
