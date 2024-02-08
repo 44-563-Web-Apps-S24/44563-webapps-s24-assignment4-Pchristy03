@@ -23,3 +23,27 @@
 .marina {
     color: red;
 }
+
+.actors {
+    border: orange;
+}
+
+.table_chars {
+    color: indigo;
+    font-weight: bold;
+}
+
+th {
+    border: 2px solid coral;
+}
+
+td {
+    text-align: center;
+    border: 1px dashed blueviolet; 
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: lightgray;
+}
