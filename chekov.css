@@ -28,6 +28,24 @@
     color: purple;
 }
 
+.telegin:hover {
+    box-shadow: 0px 0px 10px 0px rgb(243, 128, 128);
+    filter: blur(1px);
+    border: 3px double cyan;
+}
+
+.marina:hover {
+    box-shadow: 2px 0px 8px 0px rgb(155, 243, 128);
+    filter: blur(0.5px);
+    border: 3px solid beige;
+}
+
+.voitski:hover {
+    box-shadow: 2px 2px 2px 2px rgb(186, 128, 243);
+    filter: blur(0.5px);
+    border: 4px dotted rgb(182, 52, 117);
+}
+
 .actors {
     border: orange;
 }
